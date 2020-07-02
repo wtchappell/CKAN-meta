@@ -5,7 +5,8 @@
     "abstract": "Community developed continuation of Kerbal Space Program's RemoteTech mod.",
     "author": "Remote Technologies Group",
     "version": "v1.9.6-24-develop",
-    "ksp_version": "1.9.9",
+    "ksp_version_min": "1.9.0",
+    "ksp_version_max": "1.9.9",
     "license": "GPL-2.0",
     "release_status": "development",
     "resources": {
