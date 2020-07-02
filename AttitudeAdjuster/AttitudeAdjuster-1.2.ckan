@@ -5,7 +5,7 @@
     "abstract": "Adds action groups for picking control point. Lets SAS hold nose-up attitude for spaceplane reentry.",
     "author": "Snark",
     "version": "1.2",
-    "ksp_version": "1.8.1",
+    "ksp_version": "1.10.0",
     "license": "CC-BY-NC-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/180725-16-attitudeadjuster-v10-set-control-point-via-action-group-variable-pitch-control-point-for-spaceplane-reentry/",
@@ -38,5 +38,6 @@
         "sha256": "F5F05C8B446A84A2CD3F1304900723F0E95F6AD07CDF2EE57234AEA29F1C0C3A"
     },
     "download_content_type": "application/zip",
+    "release_date": "2019-10-17T03:00:06.383707+00:00",
     "x_generated_by": "netkan"
 }

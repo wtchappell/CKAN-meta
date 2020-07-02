@@ -5,7 +5,7 @@
     "abstract": "Tweak Vector to be a rocket (not spaceplane) engine.",
     "author": "Snark",
     "version": "1.0",
-    "ksp_version": "1.8.1",
+    "ksp_version": "1.10.0",
     "license": "MIT",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/125433-105-vector-repurposed-tweak-vector-to-be-a-rocket-not-spaceplane-engine/",
@@ -27,5 +27,6 @@
         "sha256": "90D042D3572297B7A80497748F4E7D3EA4DCA869CC7D0C945EC93D65425A5FFF"
     },
     "download_content_type": "application/zip",
+    "release_date": "2016-02-16T23:36:18.47378+00:00",
     "x_generated_by": "netkan"
 }
