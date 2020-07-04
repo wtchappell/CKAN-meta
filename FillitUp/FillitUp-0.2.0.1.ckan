@@ -4,9 +4,9 @@
     "name": "Fill It Up",
     "abstract": "Adjust fuel levels in the Editor",
     "author": "linuxgurugamer",
-    "version": "0.2.0",
+    "version": "0.2.0.1",
     "ksp_version_min": "1.8.0",
-    "ksp_version_max": "1.8.1",
+    "ksp_version_max": "1.10.0",
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181207-151-16-fill-it-up-adjust-fuel-levels-in-vabsph/",
@@ -36,13 +36,13 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://spacedock.info/mod/2051/Fill%20It%20Up/download/0.2.0",
-    "download_size": 45203,
+    "download": "https://spacedock.info/mod/2051/Fill%20It%20Up/download/0.2.0.1",
+    "download_size": 25935,
     "download_hash": {
-        "sha1": "1E4632A2CCAEF8D9C13235E498D3CCF6668109DF",
-        "sha256": "A4DE66F76F727A8F67753B8A6CD175755B1FDD451C6D85F4C7EE7F630A719B91"
+        "sha1": "0A351CE97FD9B722F64D2E1759953CB4CB3C8F16",
+        "sha256": "11AEBC39FCA7C4865DBF3FAB722F56DE5E819A5511ECA9684934D079849B6997"
     },
     "download_content_type": "application/zip",
-    "release_date": "2019-11-28T23:01:55.661116+00:00",
+    "release_date": "2020-07-03T20:41:09.663697+00:00",
     "x_generated_by": "netkan"
 }
