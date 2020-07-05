@@ -6,7 +6,7 @@
     "author": [
         "allista"
     ],
-    "version": "2.4.8.3",
+    "version": "2.5.0",
     "ksp_version_min": "1.9.0",
     "ksp_version_max": "1.9.1",
     "license": "MIT",
@@ -134,13 +134,13 @@
             "install_to": "GameData"
         }
     ],
-    "download": "https://spacedock.info/mod/1002/Configurable%20Containers/download/2.4.8.3",
-    "download_size": 261259,
+    "download": "https://spacedock.info/mod/1002/Configurable%20Containers/download/2.5.0",
+    "download_size": 273919,
     "download_hash": {
-        "sha1": "B08B8B4E4FF2893B280449F58BDF94D5CDAA5A52",
-        "sha256": "E6A46A8CCADE5E2D2ADB9784BBE461A66C696573C98C4CE9854199FC127A9E7E"
+        "sha1": "A3142F681D419C9099DBA093B2B171D6ACECA92D",
+        "sha256": "172A1A35BC1AF5C78B93749F2EC2CF764CC5E1829AFADD67B4DC5B78B2FB136C"
     },
     "download_content_type": "application/zip",
-    "release_date": "2020-05-04T13:57:47.990603+00:00",
+    "release_date": "2020-07-05T04:53:23.199735+00:00",
     "x_generated_by": "netkan"
 }
