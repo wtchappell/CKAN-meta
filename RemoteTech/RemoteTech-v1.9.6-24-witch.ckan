@@ -6,7 +6,7 @@
     "author": "Remote Technologies Group",
     "version": "v1.9.6-24-witch",
     "ksp_version_min": "1.10.0",
-    "ksp_version_max": "1.10.9",
+    "ksp_version_max": "1.10.99",
     "license": "GPL-2.0",
     "release_status": "development",
     "resources": {
